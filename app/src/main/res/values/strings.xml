@@ -2,5 +2,6 @@
     <string name="app_name">WilcoxFinalApp</string>
 
     <string name="welcome_message">Welcome to the ListBuilder App!</string>
+    <string name="edit_box_placeholder">Enter list item here.</string>
     <string name="action_settings">Settings</string>
 </resources>
